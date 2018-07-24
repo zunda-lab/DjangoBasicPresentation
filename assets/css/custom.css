@@ -1,3 +1,4 @@
 .reveal h1 {
   color: red;
+  text-transform: none;
 }
