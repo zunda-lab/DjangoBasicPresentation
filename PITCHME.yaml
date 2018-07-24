@@ -2,6 +2,6 @@ theme : white
 
 layout : center-right
 
-logo : assets/images/logo.png
+logo : assets/images/zunda_lab_logo_transparent_382x63.png
 
 theme-override : assets/css/PITCHME.css
