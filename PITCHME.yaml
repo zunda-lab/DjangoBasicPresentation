@@ -4,4 +4,4 @@ layout : center-right
 
 logo : assets/images/zunda_lab_logo_transparent_382x63.png
 
-theme-override : assets/css/PITCHME.css
+theme-override : assets/css/custom.css
