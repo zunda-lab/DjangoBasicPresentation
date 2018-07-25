@@ -1,1 +1,1 @@
-# DjangoBasicPresentation
+# Django入門
