@@ -7,9 +7,7 @@
 
 ---
 
-@snap[east]
 ## Djangoの魅力
-@snapend
 
 +++
 
