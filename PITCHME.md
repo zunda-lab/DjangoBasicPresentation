@@ -11,7 +11,7 @@
 
 +++
 
-@snap[west]
+@snap[midpoint]
 Djangoを利用すると、アイディアを思い立ってから数時間でWebアプリケーションを作ることができます。
 @snapend
 
