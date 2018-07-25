@@ -7,7 +7,7 @@
 
 ---
 
-## Djangoの魅力
+## @css[text-right](Djangoの魅力)
 
 +++
 
